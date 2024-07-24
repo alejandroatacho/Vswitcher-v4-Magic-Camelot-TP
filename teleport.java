@@ -1,0 +1,1 @@
+v.getCombat().spell(Spell.CAMELOT_TELEPORT);
